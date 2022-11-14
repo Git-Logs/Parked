@@ -26,7 +26,7 @@ export default function Home() {
         <FooterText>
          © 2021 - 2022 Git Logs  |{" "}
           <Website href="https://gitlogs.instatus.com/">Status Updates</Website> |{" "}
-          <Twitter href="https://twitter.com/InfinityBotList">
+          <Twitter href="https://twitter.com/GithubLogs">
             Follow us on Twitter
           </Twitter>
         </FooterText>

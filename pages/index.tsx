@@ -10,10 +10,10 @@ export default function Home() {
 
       <Main>
         <Title>
-          Hey there, You found some goodies!
+          Coming Soon!
         </Title>
         <Description>
-          This domain has been parked for use in future projects.
+          This domain has been parked for use in our future projects.
         </Description>
         <Description>
           This means that we are working on something new and exciting which will be hosted here.

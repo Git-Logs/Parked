@@ -13,10 +13,10 @@ export default function Home() {
           Hey there, You found some goodies!
         </Title>
         <Description>
-          This domain has been parked courtesy of the Infinity Development Team.
+          This domain has been parked for use in future projects.
         </Description>
         <Description>
-          This means that we are working on something new and exciting which will be hosted on this domain.
+          This means that we are working on something new and exciting which will be hosted here.
         </Description>
       </Main>
       
@@ -24,10 +24,10 @@ export default function Home() {
 
       <Footer>
         <FooterText>
-         © 2021 - 2022 Infinity Bot List  |{" "}
-          <Website href="https://infinitybotlist.com">botlist.site</Website> |{" "}
+         © 2021 - 2022 Git Logs  |{" "}
+          <Website href="https://gitlogs.instatus.com/">Status Updates</Website> |{" "}
           <Twitter href="https://twitter.com/InfinityBotList">
-            @InfinityBotList
+            Follow us on Twitter
           </Twitter>
         </FooterText>
       </Footer>
